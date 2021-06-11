@@ -1,3 +1,8 @@
+### Requirements
+
+[_] Add test https://code.visualstudio.com/api/working-with-extensions/testing-extension
+[_] Add Github Actions https://code.visualstudio.com/api/working-with-extensions/continuous-integration#github-actions
+
 ### Features
 
 [_] Show result tree in the view explorer
