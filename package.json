@@ -4,6 +4,9 @@
   "description": "Find a file in node_modules by folder or filename",
   "publisher": "SleepyGhost01",
   "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/amsv01/vscode-find-in-node-modules"
+  },
   "engines": {
     "vscode": "^1.57.0"
   },
