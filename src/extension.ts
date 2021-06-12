@@ -42,12 +42,13 @@ export function activate(context: vscode.ExtensionContext) {
 
         const relativePath = new vscode.RelativePattern(
           workspaceUri,
+          // `node_modules/*!(node_modules)/*{${filename}*,${filename}*/**}`
           `node_modules/**/*{${filename}*,${filename}*/**}`
         );
 
         const fileList = await vscode.workspace.findFiles(
           relativePath,
-          `${workspaceUri.fsPath}/node_modules/**/node_modules/**`
+          'node_modules/**/node_modules/**'
         );
 
         if (fileList.length === 0) {
