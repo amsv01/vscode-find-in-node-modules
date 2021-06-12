@@ -1,8 +1,9 @@
 {
   "name": "vscode-find-in-node-modules",
-  "displayName": "vscode-find-in-node-modules",
-  "description": "Find files in node_modules",
-  "version": "0.0.1",
+  "displayName": "Find in node_modules",
+  "description": "Find a file in node_modules by folder or filename",
+  "publisher": "SleepyGhost01",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.57.0"
   },
