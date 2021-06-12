@@ -3,7 +3,7 @@
   "displayName": "Find in node_modules",
   "description": "Find a file in node_modules by folder or filename",
   "publisher": "SleepyGhost01",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icon": "img/npm-logo.png",
   "repository": {
     "url": "https://github.com/amsv01/vscode-find-in-node-modules"
