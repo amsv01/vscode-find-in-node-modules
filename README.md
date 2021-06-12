@@ -1,5 +1,7 @@
 # Find in node_modules
 
+[![.github/workflows/main.yml](https://github.com/amsv01/vscode-find-in-node-modules/actions/workflows/main.yml/badge.svg?branch=main&event=release)](https://github.com/amsv01/vscode-find-in-node-modules/actions/workflows/main.yml)
+
 VSCode extension that help you to find a file as fast as possible in your workspace `node_modules`
 
 ![](https://github.com/amsv01/vscode-find-in-node-modules/blob/main/img/vscode-find-in-node_modules.gif?raw=true)
