@@ -1,10 +1,10 @@
 on:
   push:
     branches:
-      - main
+      - refs/tags/*
   release:
     types:
-      - created
+      - published
   workflow_dispatch:
 
 jobs:
