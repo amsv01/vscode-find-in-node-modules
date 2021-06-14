@@ -2,6 +2,8 @@
 
 [![.github/workflows/build.yml](https://github.com/amsv01/vscode-find-in-node-modules/actions/workflows/build.yml/badge.svg?branch=main&event=push)](https://github.com/amsv01/vscode-find-in-node-modules/actions/workflows/build.yml)
 
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/SleepyGhost01.vscode-find-in-node-modules.svg)](https://marketplace.visualstudio.com/items?itemName=SleepyGhost01.vscode-find-in-node-modules)
+
 VSCode extension that help you to find a file as fast as possible in your workspace `node_modules`
 ## How to use it?
 
